@@ -1,0 +1,8 @@
+---
+applications:
+  - name: FakeAPI
+    # random-route: true
+    # routes:
+    # - route: fakeapi-123456.mybluemix.net
+    memory: 64M
+    -- hostname: fake-api
